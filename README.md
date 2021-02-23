@@ -1,4 +1,4 @@
-# Capstone1Proposal
+# DSI Capstone 1 Proposal
 Proposals for Capstone 1 of DSI
 ------
 ### Proposal 1
