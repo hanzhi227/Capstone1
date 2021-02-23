@@ -8,13 +8,13 @@ https://www.kaggle.com/lsind18/weight-vs-age-of-chicks-on-different-diets
 I would like to see if there are any significant growth changes in these chickens based on different diets.
 
 ### Proposal 2
-Analyze India's water quality along with air quality 
+Analyze India's air quality compared to life expectancy
 
-https://www.kaggle.com/venkatramakrishnan/india-water-quality-data 
+https://www.kaggle.com/nimishukey/life-expectancy-in-india
 
 https://www.kaggle.com/shrutibhargava94/india-air-quality-data 
 
-It would be interesting to try and find correlations between water quality and air quality.
+It would be interesting to try and find correlations between air quality and life expectancy.
 
 
 ### Proposal 3
