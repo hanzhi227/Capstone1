@@ -1,5 +1,4 @@
 # DSI Capstone 1 Proposal
-Proposals for Capstone 1 of DSI
 ------
 ### Proposal 1
 Analyze chicken biometrics on different diets
