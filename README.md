@@ -6,6 +6,21 @@ Air Quality of India:
 
 -State
 
--so2
+-City
 
--no2
+-SO2 (Sulfur Dioxide)
+
+-NO2 (Nitrogen Dioxide)
+
+-SPM (Suspended Particulate Matter)
+
+-RSPM (Respirable Suspended Particulate Matter)
+
+Life Expectancy of India by State:
+
+-State
+
+-Expected Life Expectancy
+
+-Actual Life Expectancy
+
