@@ -18,8 +18,10 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ## Data
 
-* SO2: Sulfur Dioxide
-* NO2: Nitrogen Dioxide
+* SO2: [Sulfur Dioxide](https://www.cdc.gov/niosh/topics/sulfurdioxide/default.html)
+  * Exposure may cause nasal mucus, choking, cough, and reflex bronchi constriction
+* NO2: [Nitrogen Dioxide](https://www.epa.gov/no2-pollution/basic-information-about-no2)
+  * Exposure may cause asthma and potentially increase susceptibility to respiratory infections
 * PM2_5: Particulate Matter less than 2.5 micron
 * RSPM: Respirable Suspended Particulate Matter
 * SPM: Suspended Particulate Matter
@@ -39,7 +41,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ![Air Quality Over Time](images/air_quality_over_time.png)
 
-Scatter Matrix of States' Air Quality and Life Expectancy 
+![Air Quality By State](images/state_air_pollution.png)
+
 ![Scatter Matrix](images/scatter_matrix.png)
 
 ![Air Quality Life Correlation by State](images/life_air_corr.png)
