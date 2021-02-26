@@ -18,11 +18,11 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ## Data
 
-* SO2: [Sulfur Dioxide](https://www.cdc.gov/niosh/topics/sulfurdioxide/default.html)
+* SO<sub>2</sub>: [Sulfur Dioxide](https://www.cdc.gov/niosh/topics/sulfurdioxide/default.html)
   * Exposure may cause nasal mucus, choking, cough, and reflex bronchi constriction
-* NO2: [Nitrogen Dioxide](https://www.epa.gov/no2-pollution/basic-information-about-no2)
+* NO<sub>2</sub>: [Nitrogen Dioxide](https://www.epa.gov/no2-pollution/basic-information-about-no2)
   * Exposure may cause asthma and potentially increase susceptibility to respiratory infections
-* PM2_5: [Particulate Matter less than 2.5 micron](https://drsiew.com/beating-the-haze-understanding-psi-pm-2-5/)
+* PM<sub>2.5</sub>: [Particulate Matter less than 2.5 micron](https://drsiew.com/beating-the-haze-understanding-psi-pm-2-5/)
   * This is the most important indicator of air pollution that affects health
 * RSPM: Respirable Suspended Particulate Matter (up to 100 micron)
 * SPM: Suspended Particulate Matter (greater than 100 micron)
@@ -68,22 +68,23 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ## Hypotheses Results
 
-H_0: There is a correlation between Sulfur Dioxide and Life Expectancy
+H<sub>0</sub>: There is a correlation between Sulfur Dioxide and Life Expectancy
 
-H_a: There is not a correlation between Sulfur Dioxide and Life Expectancy
+H<sub>a</sub>: There is not a correlation between Sulfur Dioxide and Life Expectancy
 
 ![SO2 Life Correlation](images/bootstrap_SO2.png)
 
-0 lies within 95% confidence interval thus we __reject__ the __null__ hypothesis.
+Even though there is a 87.9% chance that r < 0, 
+r = 0 correlation lies within the 95% confidence interval thus we __reject__ the __null__ hypothesis.
 
 ------
-H_0: There is a correlation between Nitrogen Dioxide and Life Expectancy
+H<sub>0</sub>: There is a correlation between Nitrogen Dioxide and Life Expectancy
 
-H_a: There is not a correlation between Nitrogen Dioxide and Life Expectancy
+H<sub>a</sub>: There is not a correlation between Nitrogen Dioxide and Life Expectancy
 
 ![NO2 Life Correlation](images/bootstrap_NO2.png)
 
-0 lies within 95% confidence interval thus we __reject__ the __null__ hypothesis.
+r = 0 correlation lies within the 95% confidence interval thus we __reject__ the __null__ hypothesis.
 
 ------
 
@@ -91,6 +92,12 @@ H_a: There is not a correlation between Nitrogen Dioxide and Life Expectancy
 
 Within this data set, there is not enough evidence to prove that air pollution correlates with life span.
 
+------
+## Further Investigations
+
+It is difficult to pinpoint the specific variables that may be affecting life span when the life span is given by state, thus it would be beneficial to look into more granular health data such as lung diseases, asthma, and life span by cities. 
+
+------
 
 ## Data Sources
 [India Air Quality](https://www.kaggle.com/shrutibhargava94/india-air-quality-data)
