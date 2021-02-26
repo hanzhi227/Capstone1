@@ -1,4 +1,4 @@
-# Air Quality and Life Expectancy Analysis in India
+# Air Quality and Life Span Analysis in India
 
 #### Galvanize DSI Capstone 1
 
@@ -11,8 +11,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 ------
 ## What we are looking for?
 
-1. Is there any correlation between air pollution and life expectancy?
-2. What specific factors may correlate with life expectancy?
+1. Is there any correlation between air pollution and life span?
+2. What specific factors may correlate with life span?
 3. How has India's air quality changed over the years of 1987 and 2015?
 ------
 
@@ -24,9 +24,10 @@ The concern over air pollution's effects on health is a widely debated topic. Th
   * Exposure may cause asthma and potentially increase susceptibility to respiratory infections
 * PM2_5: [Particulate Matter less than 2.5 micron](https://drsiew.com/beating-the-haze-understanding-psi-pm-2-5/)
   * This is the most important indicator of air pollution that affects health
-* RSPM: Respirable Suspended Particulate Matter
-* SPM: Suspended Particulate Matter
-* Actual_Span: Actual Life Span the avg citizen in a state
+* RSPM: Respirable Suspended Particulate Matter (up to 100 micron)
+* SPM: Suspended Particulate Matter (greater than 100 micron)
+  * [More information on Suspended Particulates](http://www.dust-monitoring-equipment.com/suspended-particulate-matter-definition.pdf)
+* Actual_Span: Actual Life Span of the avg citizen in India by state
 
 ------
 
@@ -88,7 +89,7 @@ H_a: There is not a correlation between Nitrogen Dioxide and Life Expectancy
 
 ## Conclusion
 
-Within this data set, there is not enough evidence to prove that air pollution correlates with life expectancy.
+Within this data set, there is not enough evidence to prove that air pollution correlates with life span.
 
 
 ## Data Sources
