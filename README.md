@@ -77,23 +77,23 @@ By using the linear scaling factors, I filled in the history of RSPM and PM<sub>
 
 ## Hypotheses Results
 
-H<sub>0</sub>: There is a correlation between Sulfur Dioxide and Life Expectancy
+H<sub>0</sub>: There is not a correlation between Sulfur Dioxide and Life Expectancy
 
-H<sub>a</sub>: There is not a correlation between Sulfur Dioxide and Life Expectancy
+H<sub>a</sub>: There is a correlation between Sulfur Dioxide and Life Expectancy
 
 ![SO2 Life Correlation](images/bootstrap_SO2.png)
 
 Even though there is a 87% chance that r < 0, 
-r = 0 correlation lies within the 95% confidence interval thus we __reject__ the __null__ hypothesis.
+r = 0 correlation lies within the 95% confidence interval thus we __fail to reject__ the __null__ hypothesis.
 
 ------
-H<sub>0</sub>: There is a correlation between Nitrogen Dioxide and Life Expectancy
+H<sub>0</sub>: There is not a correlation between Nitrogen Dioxide and Life Expectancy
 
-H<sub>a</sub>: There is not a correlation between Nitrogen Dioxide and Life Expectancy
+H<sub>a</sub>: There is a correlation between Nitrogen Dioxide and Life Expectancy
 
 ![NO2 Life Correlation](images/bootstrap_NO2.png)
 
-r = 0 correlation lies within the 95% confidence interval thus we __reject__ the __null__ hypothesis.
+r = 0 correlation lies within the 95% confidence interval thus we __fail to reject__ the __null__ hypothesis.
 
 ------
 
