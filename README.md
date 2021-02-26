@@ -16,6 +16,17 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 3. How has India's air quality changed over the years of 1987 and 2015?
 ------
 
+## Data
+
+* SO2: Sulfur Dioxide
+* NO2: Nitrogen Dioxide
+* PM2_5: Particulate Matter less than 2.5 micron
+* RSPM: Respirable Suspended Particulate Matter
+* SPM: Suspended Particulate Matter
+* Actual_Span: Actual Life Span the avg citizen in a state
+
+------
+
 ## Methods Used
 * Bootstrap
 * Correlations
@@ -27,6 +38,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 ## General Findings
 
 ![Air Quality Over Time](images/air_quality_over_time.png)
+
+Scatter Matrix of States' Air Quality and Life Expectancy 
 
 ![Scatter Matrix](images/scatter_matrix.png)
 
@@ -56,12 +69,11 @@ H_a: There is not a correlation between Nitrogen Dioxide and Life Expectancy
 
 0 lies within 95% confidence interval thus we __reject__ the __null__ hypothesis.
 
+------
 
+## Conclusion
 
-
-
-
-
+Within this data set, there is not enough evidence to prove that air pollution correlates with life expectancy.
 
 
 ## Data Sources
