@@ -22,7 +22,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
   * Exposure may cause nasal mucus, choking, cough, and reflex bronchi constriction
 * NO2: [Nitrogen Dioxide](https://www.epa.gov/no2-pollution/basic-information-about-no2)
   * Exposure may cause asthma and potentially increase susceptibility to respiratory infections
-* PM2_5: Particulate Matter less than 2.5 micron
+* PM2_5: [Particulate Matter less than 2.5 micron](https://drsiew.com/beating-the-haze-understanding-psi-pm-2-5/)
+  * This is the most important indicator of air pollution that affects health
 * RSPM: Respirable Suspended Particulate Matter
 * SPM: Suspended Particulate Matter
 * Actual_Span: Actual Life Span the avg citizen in a state
