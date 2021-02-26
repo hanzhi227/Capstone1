@@ -54,11 +54,11 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ![India NO2 Map](images/no2_map.png)
 
+![Air Quality By State](images/state_air_pollution.png)
+
 ![Air Quality Over Time](images/air_quality_over_time.png)
 
-It seems that the tools for measuring smaller particulates were not available until recently.
-
-![Air Quality By State](images/state_air_pollution.png)
+It seems that the tools for measuring smaller particulates were not available until recently. Let's see if we can predict the RSPM and PM<sub>2.5</sub> values based on the SPM history.
 
 ![Scatter Matrix](images/scatter_matrix.png)
 
@@ -66,7 +66,11 @@ It seems that the tools for measuring smaller particulates were not available un
 
 ![RPSM vs PM2.5 Linear Regression](images/RPSMvsPM2_5LinReg.png)
 
+By using linear regression, I was able to calculate the scaling factor between SPM, RSPM, and PM<sub>2.5</sub>
+
 ![Air Quality Over Time Predicted](images/air_quality_over_time_filled.png)
+
+By using the linear scaling factors, I filled in the history of RSPM and PM<sub>2.5</sub>
 
 ![Correlation after prediction](images/life_air_corr_with_pm25_filled.png)
 
