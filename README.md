@@ -63,6 +63,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ![RPSM vs PM2.5 Linear Regression](images/RPSMvsPM2_5LinReg.png)
 
+![Air Quality Over Time Predicted](images/air_quality_over_time_filled.png)
+
 ![Correlation after prediction](images/life_air_corr_with_pm25_filled.png)
 
 
