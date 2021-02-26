@@ -40,7 +40,6 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 ![Air Quality Over Time](images/air_quality_over_time.png)
 
 Scatter Matrix of States' Air Quality and Life Expectancy 
-
 ![Scatter Matrix](images/scatter_matrix.png)
 
 ![Air Quality Life Correlation by State](images/life_air_corr.png)
