@@ -36,9 +36,21 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 * Linear Regression
 * Prediction
 
+## Tools
+* Numpy
+* Pandas
+* Matplotlib
+* Geopandas
+* Sklearn
 ------
 
 ## General Findings
+
+![India Life Span Map](images/life_span_map.png)
+
+![India SO2 Map](images/so2_map.png)
+
+![India NO2 Map](images/no2_map.png)
 
 ![Air Quality Over Time](images/air_quality_over_time.png)
 
@@ -84,5 +96,5 @@ Within this data set, there is not enough evidence to prove that air pollution c
 
 [India Life Expectancy](https://www.kaggle.com/nimishukey/life-expectancy-in-india)
 
-
+[India Map](https://github.com/datta07/INDIAN-SHAPEFILES)
 
