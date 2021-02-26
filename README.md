@@ -76,7 +76,7 @@ H<sub>a</sub>: There is not a correlation between Sulfur Dioxide and Life Expect
 
 ![SO2 Life Correlation](images/bootstrap_SO2.png)
 
-Even though there is a 87.9% chance that r < 0, 
+Even though there is a 87% chance that r < 0, 
 r = 0 correlation lies within the 95% confidence interval thus we __reject__ the __null__ hypothesis.
 
 ------
