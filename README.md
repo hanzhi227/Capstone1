@@ -55,6 +55,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ![Air Quality Over Time](images/air_quality_over_time.png)
 
+It seems that the tools for measuring smaller particulates were not available until recently.
+
 ![Air Quality By State](images/state_air_pollution.png)
 
 ![Scatter Matrix](images/scatter_matrix.png)
