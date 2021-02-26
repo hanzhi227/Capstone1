@@ -25,6 +25,7 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 * PM<sub>2.5</sub>: [Particulate Matter less than 2.5 micron](https://drsiew.com/beating-the-haze-understanding-psi-pm-2-5/)
   * This is the most important indicator of air pollution that affects health
 * RSPM: Respirable Suspended Particulate Matter (up to 100 micron)
+  * RSPM and PM<sub>2.5</sub> can be inferred from SPM
 * SPM: Suspended Particulate Matter (greater than 100 micron)
   * [More information on Suspended Particulates](http://www.dust-monitoring-equipment.com/suspended-particulate-matter-definition.pdf)
 * Actual_Span: Actual Life Span of the avg citizen in India by state
