@@ -54,6 +54,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 
 ![India NO2 Map](images/no2_map.png)
 
+It is not clear whether there is any patterns/correlations just by looking at the map. The SO2 and NO2 map seem to not align visually with the Life Span map.
+
 ![Air Quality By State](images/state_air_pollution.png)
 
 ![Air Quality Over Time](images/air_quality_over_time.png)
@@ -61,6 +63,8 @@ The concern over air pollution's effects on health is a widely debated topic. Th
 It seems that the tools for measuring smaller particulates were not available until recently. Let's see if we can predict the RSPM and PM<sub>2.5</sub> values based on the SPM history.
 
 ![Scatter Matrix](images/scatter_matrix.png)
+
+Now we can see clearly that there is a correlation between NO2 and SO2 along with some other light correlations between the pollution measurements.
 
 ![Air Quality Life Correlation by State](images/life_air_corr.png)
 
@@ -70,7 +74,7 @@ By using linear regression, I was able to calculate the scaling factor between S
 
 ![Air Quality Over Time Predicted](images/air_quality_over_time_filled.png)
 
-By using the linear scaling factors, I filled in the history of RSPM and PM<sub>2.5</sub>
+By using the linear scaling factors, I filled in the history of RSPM and PM<sub>2.5</sub>, giving us a better graph of the history of the newer measurements. I decided to use a scaling factor because RSPM, PM<sub>2.5</sub>, and SPM can all be calculated if the ratios are known. Thus the scaling factors are the ratios.
 
 ![Correlation after prediction](images/life_air_corr_with_pm25_filled.png)
 
@@ -83,7 +87,7 @@ H<sub>a</sub>: There is a correlation between Sulfur Dioxide and Life Span
 
 ![SO2 Life Correlation](images/bootstrap_SO2.png)
 
-Even though there is a 87% chance that r < 0, 
+After bootstrapping 3000 samples and finding the correlations, we get this pearson r distribution. Even though there is a 87% chance that r < 0, 
 r = 0 correlation lies within the 95% confidence interval thus we __fail to reject__ the __null__ hypothesis.
 
 ------
