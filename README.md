@@ -108,7 +108,7 @@ r = 0 correlation lies within the 95% confidence interval thus we __fail to reje
 
 ## Conclusion
 
-Within this data set, there is not enough evidence to prove that air pollution correlates with life span.
+Within this data set, we cannot say with confidence that air pollution has any correlation with actual life span in India. 
 
 ------
 ## Further Investigations
