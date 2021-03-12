@@ -6,14 +6,15 @@
 ------
 ## Motivation
 
-The concern over air pollution's effects on health is a widely debated topic. The WHO estimates [7 million premature deaths annually due to air pollution](http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/). That is quite concerning so let's dive in!
+The concern over air pollution's effects on health is a widely debated topic. The WHO estimates [7 million premature deaths annually due to air pollution](http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/). The most common metrics measured are SPM, RSPM, PM<sub>2.5</sub>, SO<sub>2</sub>, and NO<sub>2</sub>. Health issues tend to arise when these metrics become high. Let's see if air pollution has any effect on life span.
 
 ------
 ## What we are looking for?
 
-1. Is there any correlation between air pollution and life span?
-2. What specific factors may correlate with life span?
-3. How has India's air quality changed over the years of 1987 and 2015?
+1. What specific factors may correlate with life span?
+2. Is there any correlation between air pollution and life span?
+3. Is there statistically significant correlations between air pollution and life span?
+4. How has India's air quality changed over the years of 1987 and 2015?
 ------
 
 ## Data
