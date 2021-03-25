@@ -4,6 +4,9 @@
 
 #### Hanzhi Guo
 ------
+
+![Pollution gif](images/pollution.gif)
+
 ## Motivation
 
 The concern over air pollution's effects on health is a widely debated topic. The WHO estimates [7 million premature deaths annually due to air pollution](http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/). The most common metrics measured are SPM, RSPM, PM<sub>2.5</sub>, SO<sub>2</sub>, and NO<sub>2</sub>. Health issues tend to arise when these metrics become high. Let's see if air pollution has any effect on life span. Should there be drastic/urgent measures taken to lower pollution?
