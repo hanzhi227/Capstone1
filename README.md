@@ -5,7 +5,10 @@
 #### Hanzhi Guo
 ------
 
-![Pollution gif](images/pollution.gif)
+<p align="center">
+  <img width=100% src="https://github.com/hanzhi227/India-Air-Quality/blob/main/images/pollution.gif">
+</p>
+
 
 ## Motivation
 
